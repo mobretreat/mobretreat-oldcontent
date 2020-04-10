@@ -1,7 +1,7 @@
-A DAY OF MOB RETREAT
+DAY OF MOB RETREAT
 ===================
 
-Participants are split in Mobs with size of 5 +- 1.
+Day of mob reatreat is a full day of practicing collaborative software development as a mob in groups of 5 +- 1 people sharing the same code. Practicing different styles of collaboration is complemented by retrospectives and reflection.
 
 Schedule
 -------------
