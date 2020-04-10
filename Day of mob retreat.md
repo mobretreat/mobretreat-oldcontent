@@ -16,9 +16,9 @@ Each round starts with the 5 - 15 minutes introduction made by the retreat facil
 
 At the end of the introduction each participant should unterstand the objectives and the constraints of the round.
 
-The introduction is followed by 2 x 20-25 minutes minutes of coding.
-
 At the beginning of the first round each groups decides which programming language is used and which computer, which IDE or online service (e.g. Cyber-Dojo) is used for writing code. The code base is kept and incrementally developed by the group during the whole day.
+
+The introduction is followed by 2 x 20-25 minutes minutes of coding.
 
 Each coding time is followed by 0-5 minutes retrospective inside each MOB where participants can share their observations, feelings and ideas.
 
