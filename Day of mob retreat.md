@@ -18,13 +18,15 @@ At the end of the introduction each participant should unterstand the objectives
 
 The introduction is followed by 2 x 20-25 minutes minutes of coding.
 
+At the beginning of the first round each groups decides which programming language is used and which computer, which IDE or online service (e.g. Cyber-Dojo) is used for writing code. The code base is kept and incrementally developed by the group during the whole day.
+
 Each coding time is followed by 0-5 minutes retrospective inside each MOB where participants can share their observations, feelings and ideas.
 
 At the end of each round there is 5-10 minutes long discussion round between all mobs.
 
 All times are announced by the retreat facilitator.
 
-After the discussion the mob rejoins, but one participant per MOB leaves his group and joins some other group so that in each MOB one person per round is replaced.
+After the discussion the mob rejoins, but one or two participants per MOB leave their group and join some other groups so that in each MOB one or two persons per round are replaced.
 
 Rotations
 -------------
