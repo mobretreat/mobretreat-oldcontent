@@ -105,9 +105,7 @@ Now the most interesting part: the constraints are related to different styles o
 - The DRIVER MAY NOT do anything before being told by the MOB.
 
 ### (Optional) Round 5: Free style mobbing
-#### Objectives
-#### Constraints
-- The group decides which style to use.
+- Each group decides which collaboration style to use.
 
 ----------------------------------------------------------
 © 2020 Dimitry Polivaev
