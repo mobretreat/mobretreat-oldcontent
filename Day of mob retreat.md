@@ -45,8 +45,10 @@ The ROTATION MUST happen within the following 3 minutes. So there MUST be a ROTA
 
 After each ROTATION the timer MUST be restarted.
 
-Constraints
--------------
+Groups may try to rotate roles after certain events instead of using the timer (e.g. implementation or refactoring finished). However, the roles should be rotated fast enough.
+
+Each Round Objectives and Constraints
+---------------------------------------
 
 Now the most interesting part: the constraints are related to different styles of mobbing and navigating we have been talking about and I have experienced so far. The below descriptions are just drafts and suggestions to be discussed.
 
