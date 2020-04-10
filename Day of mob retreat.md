@@ -1,7 +1,7 @@
 DAY OF MOB RETREAT
 ===================
 
-Day of mob reatreat is a full day of practicing collaborative software development as a mob in groups of 5 +- 1 people sharing the same code. Practicing different styles of collaboration is complemented by retrospectives and reflection.
+Day of mob retreat is a full day of practicing collaborative software development as a mob of 5 +- 1 people with TDD and refactoring. Practicing different styles of collaboration is complemented by retrospectives and reflection.
 
 Schedule
 -------------
