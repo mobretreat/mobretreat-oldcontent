@@ -79,6 +79,7 @@ Now the most interesting part: the constraints are related to different styles o
 
 ### Round 3: Free Style Navigating
 #### Objectives
+- As a group feel FLOW and have FUN
 - As a NAVIGATOR practice listening to the MOB, asking open questions, making decisions, giving instructions to the DRIVER
 - As a DRIVER practice listening, following NAVIGATOR instructions, asking for help
 - As a MOB practice unmoderated discussion
@@ -91,6 +92,7 @@ Now the most interesting part: the constraints are related to different styles o
 
 ### Round 4: All mobbers are navigators
 #### Objectives
+- As a group feel FLOW and have FUN
 - As a DRIVER practice listening, implementing ideas coming from the MOB, asking for help
 - As a MOB practice listening, making suggestions, giving instructions to the DRIVER
 #### Constraints
