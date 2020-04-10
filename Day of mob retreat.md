@@ -49,7 +49,11 @@ Constraints
 Now the most interesting part: the constraints are related to different styles of mobbing and navigating we have been talking about and I have experienced so far. The below descriptions are just drafts and suggestions to be discussed.
 
 ### Round 1: Strong Style Navigating
-
+#### Objectives
+- As a NAVIGATOR practice finding solutions, speaking to the group, giving instructions to DRIVER, asking for help
+- As a DRIVER practice listening, following NAVIGATOR instructions, asking for help
+- As a MOB practice listening, being patient, responding to NAVIGATOR, finding solutions
+#### Constraints
 - The NAVIGATOR SHOULD tell DRIVER what to do based on his own ideas.
 - The NAVIGATOR MAY ask MOB to give help and contribute suggestions.
 - The rest of the MOB MAY NOT ask NAVIGATOR questions or offer suggestions before the NAVIGATOR request.
@@ -58,25 +62,36 @@ Now the most interesting part: the constraints are related to different styles o
 - The DRIVER MAY NOT type anything before being told by the NAVIGATOR.
 
 ### Round 2: Moderating Style Navigating
-
-- The NAVIGATOR SHOULD tell DRIVER what to do based on ideas coming from the MOB.
-- The NAVIGATOR SHOULD always ask MOB to contribute suggestions.
+#### Objectives
+- As a NAVIGATOR practice moderation of the MOB, listening, asking open questions, making decisions, giving instructions to the DRIVER
+- As a DRIVER practice listening, following NAVIGATOR instructions, offering contributions, asking for help
+- As a MOB practice listening, offering contributions
+#### Constraints
+- The NAVIGATOR SHOULD ask MOB to contribute suggestions.
+- The NAVIGATOR SHOULD moderate all contributions and discussions.
 - The DRIVER and the rest of the MOB MAY offer ideas and ask NAVIGATOR questions by raising hands.
-- The NAVIGATOR SHOULD moderate all discussions.
+- The NAVIGATOR SHOULD tell DRIVER what to do based on ideas coming from the MOB.
 - There MAY NOT be any unmoderated discussions between the mobbers.
 - The rest of the MOB MAY NOT talk before the NAVIGATOR request.
 - The DRIVER MAY NOT type anything before being told by the NAVIGATOR.
 
 ### Round 3: Free Style Navigating
-
-- The NAVIGATOR SHOULD tell DRIVER what to do based on ideas discussed the MOB.
+#### Objectives
+- As a NAVIGATOR practice listening to the MOB, asking open questions, making decisions, giving instructions to the DRIVER
+- As a DRIVER practice listening, following NAVIGATOR instructions, asking for help
+- As a MOB practice unmoderated discussion
+#### Constraints
+- The NAVIGATOR SHOULD tell DRIVER what to do based on ideas discussed with the MOB.
 - The NAVIGATOR SHOULD always ask MOB to contribute suggestions before doing the next step.
 - The rest of the MOB can make suggestions, express support or disagreement or ask questions any time.
 - The DRIVER MAY NOT offer ideas or participate in the discussions.
-- The DRIVER MAY NOT do anything before being told by the NAVIGATOR.
+- The DRIVER MAY NOT type anything before being told by the NAVIGATOR.
 
 ### Round 4: All mobbers are navigators
-
+#### Objectives
+- As a DRIVER practice listening, implementing ideas coming from the MOB, asking for help
+- As a MOB practice listening, making suggestions, giving instructions to the DRIVER
+#### Constraints
 - There is no dedicated navigator.
 - The MOB SHOULD tell DRIVER what to do based on consense or consent.
 - The MOB can make suggestions, express support or disagreement or ask questions any time.
@@ -84,5 +99,6 @@ Now the most interesting part: the constraints are related to different styles o
 - The DRIVER MAY NOT do anything before being told by the MOB.
 
 ### (Optional) Round 5: Free style mobbing
-
+#### Objectives
+#### Constraints
 - The group decides which style to use.
