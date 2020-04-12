@@ -54,7 +54,7 @@ Now the most interesting part: the constraints are related to different styles o
 
 ### Round 1: Strong Style Navigating
 #### Objectives
-- As a NAVIGATOR practice finding solutions, speaking to the group, communicating goals, giving instructions to DRIVER, asking for help, listening
+- As a NAVIGATOR practice finding solutions, speaking to the group, communicating goals (what to achieve) and reasons (why that), giving instructions to DRIVER (how to implement), asking for help, listening
 - As a DRIVER practice listening, following NAVIGATOR instructions, asking for help
 - As a MOB practice listening, being patient, responding to NAVIGATOR, finding solutions
 #### Constraints
