@@ -35,7 +35,7 @@ A mob always has one driver, one navigator and the mobbers.
 
 The roles are changed by ROTATION.
 
-In the ROTATION DRIVER becommes MOBBER, NAVIGATOR becomes DRIVER, one of the Mobbers becomes NAVIGATOR based on some fix order.
+In the ROTATION, DRIVER becommes MOBBER, NAVIGATOR becomes DRIVER, one of the Mobbers becomes NAVIGATOR based on some fixed order.
 
 There is a 3 minutes timer. 
 
@@ -56,7 +56,7 @@ Now the most interesting part: the constraints are related to different styles o
 #### Objectives
 - As a NAVIGATOR practice finding solutions, speaking to the group, communicating goals (what to achieve) and reasons (why that), giving instructions to DRIVER (how to implement), asking for help, listening
 - As a DRIVER practice listening, following NAVIGATOR instructions, asking for help
-- As a MOB practice listening, being patient, responding to NAVIGATOR, finding solutions
+- As a member of the MOB practice listening, being patient, responding to NAVIGATOR, finding solutions
 #### Constraints
 - The NAVIGATOR SHOULD tell DRIVER what to do based on his own ideas.
 - The NAVIGATOR MAY ask MOB to give help and contribute suggestions.
@@ -81,10 +81,10 @@ Now the most interesting part: the constraints are related to different styles o
 
 ### Round 3: Free Style Navigating
 #### Objectives
-- As a group feel FLOW and have FUN
-- As a NAVIGATOR practice listening to the MOB, asking open questions, communicating goals, making decisions, giving instructions to the DRIVER
-- As a DRIVER practice listening, following NAVIGATOR instructions, asking for help
-- As a MOB practice unmoderated discussion of goals and implementation details
+- As a group, feel FLOW and have FUN
+- As a NAVIGATOR, practice listening to the MOB, asking open questions, communicating goals, making decisions, giving instructions to the DRIVER
+- As a DRIVER, practice listening, following NAVIGATOR instructions, asking for help
+- As a MOB, practice unmoderated discussion of goals and implementation details
 #### Constraints
 - The NAVIGATOR SHOULD tell DRIVER what to do based on ideas discussed with the MOB.
 - The NAVIGATOR SHOULD always ask MOB to contribute suggestions before doing the next step.
@@ -94,9 +94,9 @@ Now the most interesting part: the constraints are related to different styles o
 
 ### Round 4: All mobbers are navigators
 #### Objectives
-- As a group feel FLOW and have FUN
-- As a DRIVER practice listening, implementing ideas coming from the MOB, asking for help
-- As a MOB practice listening, discussing goals, giving instructions to the DRIVER
+- As a group, feel FLOW and have FUN
+- As a DRIVER, practice listening, implementing ideas coming from the MOB, asking for help
+- As a MOB, practice listening, discussing goals, giving instructions to the DRIVER
 #### Constraints
 - There is no dedicated navigator.
 - The MOB SHOULD tell DRIVER what to do based on consense or consent.
