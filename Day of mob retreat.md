@@ -54,7 +54,7 @@ Now the most interesting part: the constraints are related to different styles o
 
 ### Round 1: Strong Style Navigating
 #### Objectives
-- As a NAVIGATOR practice finding solutions, speaking to the group, giving instructions to DRIVER, asking for help, listening
+- As a NAVIGATOR practice finding solutions, speaking to the group, communicating goals, giving instructions to DRIVER, asking for help, listening
 - As a DRIVER practice listening, following NAVIGATOR instructions, asking for help
 - As a MOB practice listening, being patient, responding to NAVIGATOR, finding solutions
 #### Constraints
@@ -67,9 +67,9 @@ Now the most interesting part: the constraints are related to different styles o
 
 ### Round 2: Moderating Style Navigating
 #### Objectives
-- As a NAVIGATOR practice moderation of the MOB, listening, asking open questions, making decisions, giving instructions to the DRIVER
-- As a DRIVER practice listening, following NAVIGATOR instructions, offering contributions, asking for help
-- As a MOB practice listening, offering contributions
+- As a NAVIGATOR practice moderation of the MOB, listening, asking open questions, communicating goals, making decisions, giving instructions to the DRIVER
+- As a DRIVER practice listening, following NAVIGATOR instructions, offering suggestions, asking for help
+- As a MOB practice listening, offering suggestions
 #### Constraints
 - The NAVIGATOR SHOULD ask MOB to contribute suggestions.
 - The NAVIGATOR SHOULD moderate all contributions and discussions.
@@ -82,9 +82,9 @@ Now the most interesting part: the constraints are related to different styles o
 ### Round 3: Free Style Navigating
 #### Objectives
 - As a group feel FLOW and have FUN
-- As a NAVIGATOR practice listening to the MOB, asking open questions, making decisions, giving instructions to the DRIVER
+- As a NAVIGATOR practice listening to the MOB, asking open questions, communicating goals, making decisions, giving instructions to the DRIVER
 - As a DRIVER practice listening, following NAVIGATOR instructions, asking for help
-- As a MOB practice unmoderated discussion
+- As a MOB practice unmoderated discussion of goals and implementation details
 #### Constraints
 - The NAVIGATOR SHOULD tell DRIVER what to do based on ideas discussed with the MOB.
 - The NAVIGATOR SHOULD always ask MOB to contribute suggestions before doing the next step.
@@ -96,7 +96,7 @@ Now the most interesting part: the constraints are related to different styles o
 #### Objectives
 - As a group feel FLOW and have FUN
 - As a DRIVER practice listening, implementing ideas coming from the MOB, asking for help
-- As a MOB practice listening, making suggestions, giving instructions to the DRIVER
+- As a MOB practice listening, discussing goals, giving instructions to the DRIVER
 #### Constraints
 - There is no dedicated navigator.
 - The MOB SHOULD tell DRIVER what to do based on consense or consent.
