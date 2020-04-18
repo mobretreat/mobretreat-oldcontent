@@ -102,7 +102,8 @@ Now the most interesting part: the constraints are related to different styles o
 - As a MOB, practice listening, discussing goals, giving instructions to the DRIVER
 #### Constraints
 - There is no dedicated navigator.
-- The MOB SHOULD tell DRIVER what to do based on consensus or consent.
+- The MOB SHOULD tell DRIVER what to  try at the level he is able to execute
+- The MOB SHOULD establish consensus or consent (no disagreement).
 - The MOB can make suggestions, express support or disagreement or ask questions any time.
 - The DRIVER MAY NOT offer ideas or participate in the discussions.
 - The DRIVER MAY NOT type anything before being told by the MOB.
