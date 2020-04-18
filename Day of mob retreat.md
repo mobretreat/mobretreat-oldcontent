@@ -35,7 +35,7 @@ A mob always has one driver, one navigator and the mobbers.
 
 The roles are changed by ROTATION.
 
-In the ROTATION, DRIVER becommes MOBBER, NAVIGATOR becomes DRIVER, one of the Mobbers becomes NAVIGATOR based on some fixed order.
+In the ROTATION, DRIVER becomes MOBBER, NAVIGATOR becomes DRIVER, one of the Mobbers becomes NAVIGATOR based on some fixed order.
 
 There is a 3 minutes timer. 
 
