@@ -71,6 +71,7 @@ Now the most interesting part: the constraints are related to different styles o
 - As a DRIVER practice listening, following NAVIGATOR instructions, offering suggestions, asking for help
 - As a MOB practice listening, offering suggestions
 #### Constraints
+- The NAVIGATOR MAY NOT tell DRIVER what to do based on his own ideas.
 - The NAVIGATOR SHOULD ask MOB to contribute suggestions.
 - The NAVIGATOR SHOULD moderate all contributions and discussions.
 - The DRIVER and the rest of the MOB MAY offer ideas and ask NAVIGATOR questions by raising hands.
