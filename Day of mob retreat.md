@@ -3,7 +3,7 @@ DAY OF MOB RETREAT
 
 Day of mob retreat is a full day of practicing collaborative software development as a mob of 5 +- 1 people with TDD and refactoring. Making experiences with different collaboration styles is complemented by retrospectives and reflection.
 
-Schedule
+Day Schedule
 -------------
 
 The retreat consists of 4 to 5 rounds.
@@ -12,11 +12,12 @@ Each round takes about 75 minutes.
 75 minutes * 4 rounds + 45 minutes lunch break = 5 hours 45 minutes
 75 minutes * 5 rounds + 45 minutes lunch break = 7 hours
 
-Each round starts with the 5 - 15 minutes introduction made by the retreat facilitator.
-
-At the end of the introduction each participant should unterstand the objectives and the constraints of the round.
-
 At the beginning of the first round each groups decides which programming language is used and which computer, which IDE or online service (e.g. Cyber-Dojo) is used for writing code. The code base is kept and incrementally developed by the group during the whole day.
+
+Round Schedule
+-------------
+
+Each round starts with the 5 - 15 minutes introduction made by the retreat facilitator. At the end of the introduction each participant should understand the objectives and the constraints of the round.
 
 The introduction is followed by 2 x 20-25 minutes minutes of coding.
 
@@ -89,6 +90,7 @@ Now the most interesting part: the constraints are related to different styles o
 #### Constraints
 - The NAVIGATOR SHOULD tell DRIVER what to do based on ideas discussed with the MOB.
 - The NAVIGATOR SHOULD always ask MOB to contribute suggestions before doing the next step.
+- The NAVIGATOR MAY NOT tell DRIVER what to do based on ideas before they have been discussed with the MOB
 - The rest of the MOB can make suggestions, express support or disagreement or ask questions any time.
 - The DRIVER MAY NOT offer ideas or participate in the discussions.
 - The DRIVER MAY NOT type anything before being told by the NAVIGATOR.
@@ -100,10 +102,10 @@ Now the most interesting part: the constraints are related to different styles o
 - As a MOB, practice listening, discussing goals, giving instructions to the DRIVER
 #### Constraints
 - There is no dedicated navigator.
-- The MOB SHOULD tell DRIVER what to do based on consense or consent.
+- The MOB SHOULD tell DRIVER what to do based on consensus or consent.
 - The MOB can make suggestions, express support or disagreement or ask questions any time.
 - The DRIVER MAY NOT offer ideas or participate in the discussions.
-- The DRIVER MAY NOT do anything before being told by the MOB.
+- The DRIVER MAY NOT type anything before being told by the MOB.
 
 ### (Optional) Round 5: Free style mobbing
 - Each group decides which collaboration style to use.
