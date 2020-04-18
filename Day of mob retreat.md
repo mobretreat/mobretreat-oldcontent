@@ -37,7 +37,7 @@ The roles are changed by ROTATION.
 
 In the ROTATION, DRIVER becomes MOBBER, NAVIGATOR becomes DRIVER, one of the Mobbers becomes NAVIGATOR based on some fixed order.
 
-There is a 3 minutes timer. 
+DRIVER starts a [timer](https://www.online-stopwatch.com/full-screen-interval-timer/?c=4pbk3m453x) giving an acoustic signal every free minutes
 
 After first 3 minutes NAVIGATOR MAY initiate a ROTATION.
 
